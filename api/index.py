@@ -113,7 +113,7 @@ def index():
         <title>Hunting Tool</title>
         <style>
             body {
-                background: url('https://i.imgur.com/XYZ1234.gif') no-repeat center center fixed;
+                background: url('https://d5xydlzdo08s0.cloudfront.net/media/frames/94/default_priceless_logo_svgo.svg') no-repeat center center fixed;
                 background-size: cover;
                 color: white;
                 font-family: Arial, sans-serif;
